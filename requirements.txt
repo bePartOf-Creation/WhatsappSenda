@@ -1,0 +1,4 @@
+python-decouple==3.5
+twilio==7.1.0
+fastapi==0.70.0
+phonenumbers==8.12.34
